@@ -1,0 +1,7 @@
+interface:
+  display_name: "Smart Video Splitter"
+  short_description: "Split videos at speech pauses or visual boundaries"
+  default_prompt: "Use $smart-video-splitter to divide this video into three natural, approximately equal clips."
+
+policy:
+  allow_implicit_invocation: true
