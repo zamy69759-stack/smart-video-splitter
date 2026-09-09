@@ -1,8 +1,0 @@
-interface:
-  display_name: "Smart Video Splitter"
-  short_description: "Split silent videos at natural visual boundaries"
-  default_prompt: "Use $smart-video-splitter to divide this silent video into three approximately equal clips."
-
-policy:
-  allow_implicit_invocation: true
-
